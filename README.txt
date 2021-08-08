@@ -4,3 +4,5 @@ use make to create executable then ./tetris to open
 
 Dependencies:
 allegro
+
+TEST
