@@ -6,7 +6,7 @@ use make to compile<br>
 left/right arrows to move piece<br>
 up arrow to rotate piece
 
-<h4>Dependences:</h4>
+<h4>Dependencies:</h4>
 allegro
 <br><br>
 
